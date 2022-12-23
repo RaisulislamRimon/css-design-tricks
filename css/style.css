@@ -18,3 +18,26 @@
   margin-top: 200px;
   transform: rotate(-45deg);
 }
+
+/* 
+.hello {
+  // text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  position: relative;
+}
+.hello1 {
+  position: absolute;
+  // background-color: blue; 
+  background-color: white;
+  // border-radius: 10px;
+  margin-right: -179px;
+  padding: 41px 50px;
+  margin-top: 200px;
+  transform: rotate(-41deg);
+}
+*/
